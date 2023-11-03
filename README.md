@@ -1,2 +1,2 @@
-# torquewrench_datalogger
+# APPLIEDMEDICAL_FORCEDATALOG
 Datalogger for IMADA DST-4A
